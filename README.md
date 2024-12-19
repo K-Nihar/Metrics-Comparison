@@ -13,6 +13,7 @@ The goal of this project is to:
 ## Dataset
 
 The dataset used for this project is a **Credit Card Fraud Detection** dataset, which contains information about transactions. The dataset is highly imbalanced, with only a small proportion of transactions being labeled as fraudulent.
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ### Key Features:
 
